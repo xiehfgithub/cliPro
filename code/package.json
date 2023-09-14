@@ -2,9 +2,9 @@
   "name": "mmc_customname",
   "version": "1.1.01",
   "private": true,
-  "description": "控件名称（例：专项工作分配表）",
+  "description": "控件名称（例：专项分配表）",
   "subDesc": "补充信息（例：DL-20230317·流程优化）",
-  "iteration": "对应用户公司编号（例：PRJ-???）",
+  "iteration": "用户故事（例：PRJ-???）",
   "author": "hfxie",
   "lastTime": "2023-09-14 08:58:18",
   "scripts": {
